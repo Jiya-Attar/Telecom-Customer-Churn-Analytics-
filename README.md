@@ -28,7 +28,7 @@ Dataset: IBM Telco Customer Churn
 ## Dashboard preview
 
 
-![Customer Churn Executive Dashboard](images/dashboard_executive.png)
+![Customer Churn Executive Dashboard](imagesdashboard_executive.png)
 
 ---
 
